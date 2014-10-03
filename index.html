@@ -1,0 +1,30 @@
+---
+layout: default
+title: FIT2CLOUD博客
+---
+
+<div id="home">
+  <h1>FIT2CLOUD动态</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> :: <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>我们发表的文章</h1>
+  <ul class="posts">
+    <li><span>2014/08 CSDN</span> :: <a href="http://www.csdn.net/article/2014-08-13/2821180">对国内公有云两个计费现象的思考</a></li>
+    <li><span>2014/05 CSDN</span> :: <a href="http://www.csdn.net/article/2014-05-04/2819584-the-understanding-of-paas">以史为镜，剖析PaaS大迷局</a></li>
+    <li><span>2014/02 InfoQ</span> :: <a href="http://www.infoq.com/cn/articles/devops-is-not-equal-chef-puppet">DevOps ≠ Chef/Puppet</a></li>
+    <li><span>2013/09 程序员</span> :: <a href="http://www.csdn.net/article/2013-08-27/2816726">对国内云计算三个现象的思考</a></li>
+    <li><span>2011/06 InfoQ</span> :: <a href="http://www.infoq.com/cn/articles/rzm-paas-in-my-view">阮志敏谈平台即服务PaaS</a></li>
+    <li><span>2011/04 InfoQ</span> :: <a href="http://www.infoq.com/cn/articles/cloud-computing-soa">阮志敏谈云计算与SOA</a></li>
+  </ul>
+
+  <h1>我们的开源项目</h1>
+  <ul class="posts">
+    <li><a href="https://github.com/fit2cloud/aliyun-api-java-wrapper">aliyun-api-java-wrapper:</a> 阿里云 API Java 封装库.</li>
+    <li><a href="https://github.com/fit2cloud/qingcloud-api-java-wrapper">qingcloud-api-java-wrapper:</a> 青云QingCloud API Java 封装库.</li>
+    <li><a href="https://github.com/fit2cloud/fit2cloud-java-sdk">fit2cloud-java-sdk:</a> FIT2CLOUD Java SDK.</li>
+  </ul>
+</div>
