@@ -75,3 +75,9 @@ FIT2CLOUD还提供了很多功能和工具帮助用户实现自动化运维，�
    * 自动伸缩功能(auto-scaling)。FIT2CLOUD支持基于时间的伸缩和基于监控数据的监控。监控数据由FIT2CLOUD Agent采集。
    * 执行脚本功能。用户可以同时在一个或者多个虚机上执行脚本。比如前阵子发生的openssl漏洞，用户可以快速地在所有虚机上运行yum update openssl脚本来修复。
    * 统一监控和告警。FIT2CLOUD提供基础的告警服务，当虚机的CPU/Disk/RAM使用率超过一定数值，系统将会告警。
+
+<h1>四、后记</h1>
+
+“青云是什么？它是一组资源及资源的调度系统，为建立Cloud IT新生态提供基础。FIT2CLOUD就是我们所说的New IT的一个良好样本。欢迎尝试，共建生态”——by Richard Huang，QingCloud CEO
+
+感谢青云QingCloud给予FIT2CLOUD的支持和鼓励。QingCloud为Cloud IT新生态提供基础，我们会不断努力，推动国内Platform及开发运维模式的变化。
