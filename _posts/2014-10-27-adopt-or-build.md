@@ -23,7 +23,7 @@ title: 云管理工具：用户有哪些选择？
 
 那么，在构建自己的云管理解决方案时，用户有哪些选择呢？
 
-<h1>一、自己构建</h1>
+<h2>一、自己构建</h2>
 
 最典型的例子是Netflix。Netflix是构建在AWS上的最大Service，其使用的EC2实例数在10k数量级。Netflix认为其将服务迁移到AWS上后，其技术的核心工作是在AWS之上构建一个PaaS层。目前，这个PaaS中的大部分组件已经被Netflix开源了，在这当中包括最重要的云管理和部署工具：[Asgard](http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html)(Web-based Cloud Management and Deployment)。
 
@@ -35,7 +35,7 @@ Netflix是先行者，它当时不得不自己构建工具，因为市场上没�
 * IaaS的升级非常频繁，如何保证您自己构建的工具能够支持这些新特性？
 * IaaS API可能发生变化，您自己构建的工具能够必须即时更新
 
-<h1>二、采用IaaS厂商的部署和管理工具</h1>
+<h2>二、采用IaaS厂商的部署和管理工具</h2>
 
 AWS除了管理控制台、CLI、SDK外，还提供了三个部署和管理相关服务：CloudFormation, OpsWorks, Beanstalk。其中，CloudFormation提供的功能是Template Provision; OpsWorks的核心功能是Application Automation，即应用生命周期管理；Beanstalk则可以帮助用户快速部署Web应用(Application Container)。
 
@@ -43,7 +43,7 @@ AWS除了管理控制台、CLI、SDK外，还提供了三个部署和管理相�
 
 采用IaaS厂商的部署和管理工具的最大风险是被Vendor Lock-in。如果企业的云策略是混合云模式，那么这种方案未必是最好选择。
 
-<h1>三、采用国外的第三方云管理工具</h1>
+<h2>三、采用国外的第三方云管理工具</h2>
 
 RightScale是这个领域的标杆企业。Zynga, 其典型用户之一，就是通过RightScale来统一管理其在AWS和私有云(Cloudstack)上面的资源。RightScale支持的公有云、私有云，还支持传统虚机化环境，如下图所示：
 
@@ -51,7 +51,7 @@ RightScale是这个领域的标杆企业。Zynga, 其典型用户之一，就是
 
 国外的第三方云管理工具的问题是其目前不支持中国本土公有云，比如阿里云、青云等。
 
-<h1>四、FIT2CLOUD有什么特点？</h1>
+<h2>四、FIT2CLOUD有什么特点？</h2>
 
 FIT2CLOUD是一个建立在IaaS之上的云管理及DevOps协作平台，帮助企业提高云成熟度，实现云资源创建自动化、服务器自动化、混合云管理、应用部署升级自动化和持续交付。基于FIT2CLOUD，企业可以实现应用全生命周期的自动化管理，打通从代码到服务的转化通道，实现云应用的持续交付和自动化运维。
 
