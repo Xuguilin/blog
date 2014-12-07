@@ -10,7 +10,7 @@ title: FIT2CLOUD正式支持微软Azure云，帮助企业部署和管理基于Li
 
 FIT2CLOUD是一个建立在IaaS之上的云管理及DevOps协作平台，帮助企业提高云成熟度，实现云资源创建自动化、服务器自动化、混合云管理、应用部署升级自动化和持续交付。基于FIT2CLOUD，企业可以实现应用全生命周期的自动化管理，打通从代码到服务的转化通道，实现云应用的持续交付和自动化运维。
 
-今天，我们正式完成了对国内微软Azure云(由世纪互联运营)的支持。我们的在线服务提供免费套餐，用户可以免费管理和部署10个虚机，欢迎大家[评测](http://fit2cloud.com/)。请参考我们的快速入门指南：[十分钟内部署Wordpress应用(包含2个Web虚机和1个数据库虚机)](http://docs.fit2cloud.com/get_start_azure.html)。
+今天，我们正式完成了对国内微软Azure云(由世纪互联运营)的支持。我们的在线服务提供免费套餐，用户可以免费管理和部署10个虚机，欢迎大家[评测](http://fit2cloud.com/)。请参考我们的快速入门指南：[十分钟内部署Wordpress应用(包含2个Web虚机和1个数据库虚机)](http://docs.fit2cloud.com/azure_get_started.html)。
 
 在这里，我们想给大家分享FIT2CLOUD支持Azure云背后的一些故事，及FIT2CLOUD可以帮助Azure用户做些什么。
 
