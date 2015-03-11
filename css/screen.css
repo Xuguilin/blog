@@ -24,17 +24,18 @@ body {
 
 h3{
     font-size: 100%;
+    margin: 1em 0;
 }
 
 h1 {
   font-size: 120%;
-  margin-bottom: 1em;
-
+  margin: 1em 0;  
 }
 
 h2 {
   font-size: 110%;
   color:#00A;
+  margin: 1em 0;
 }
 
 p {
@@ -88,7 +89,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 50em;
+  width: 54em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
