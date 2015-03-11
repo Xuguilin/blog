@@ -10,7 +10,7 @@ title: FIT2CLOUD企业版上架阿里云镜像市场，给阿里云用户带来�
 
 经过半年的研发和测试，我们本周正式推出了FIT2CLOUD阿里云企业版，并上架阿里云镜像市场( 链接是： [FIT2CLOUD应用交付及运维管理平台Centos 6.5 64位](http://market.aliyun.com/imageproduct/15-123826001-jxsc000119.html) )。FIT2CLOUD企业版以镜像方式交付，部署在用户自身控制的虚机中，安全可靠。欢迎大家使用，部署和管理指南请查看阿里云镜像市场上的商品介绍。如果你有任何问题，请咨询support@fit2cloud.com。
 
-<font color="#aaa" size="2">备注:镜像市场上线初期的FIT2CLOUD阿里云企业版镜像均为免费,因此用户只需支付ECS费用即可免费使用FIT2CLOUD企业版，具体详情请参考:​ [http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974158](http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974158)</font>
+<font color="#aaa" size="2">备注:镜像市场上线初期的FIT2CLOUD阿里云企业版镜像均为免费,因此用户只需支付ECS费用即可免费使用FIT2CLOUD企业版，具体详情请查看:​ [http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974158](http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974158)</font>
 
 <h2>一、FIT2CLOUD阿里云企业版有哪些功能？</h2>
 
