@@ -6,7 +6,7 @@ title: FIT2CLOUD企业版上架阿里云镜像市场，给阿里云用户带来�
 {{ page.title }}
 ================
 
-<p class="meta">2015/01/20 - 杭州 By Simon</p>
+<p class="meta">2015/03/20 - 杭州 By Simon</p>
 
 经过半年的研发和测试，我们本周正式推出了FIT2CLOUD阿里云企业版，并上架阿里云镜像市场( 链接是： [FIT2CLOUD应用交付及运维管理平台Centos 6.5 64位](http://market.aliyun.com/imageproduct/15-123826001-jxsc000119.html) )。FIT2CLOUD企业版以镜像方式交付，部署在用户自身控制的虚机中，安全可靠。欢迎大家使用，部署和管理指南请查看阿里云镜像市场上的商品介绍。如果你有任何问题，请咨询support@fit2cloud.com。
 
