@@ -42,6 +42,18 @@ p {
   margin: 1em 0;
 }
 
+ul, ol{
+    list-style-type: disc;
+    font-size: 14px;
+    line-height: 1.4;
+    list-style-position: outside;
+    font-family: inherit;
+}
+
+header.navigation ul li a {
+    font-size: 16px;
+}
+
 a {
   color: #00a;
 }
@@ -203,3 +215,4 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+  
