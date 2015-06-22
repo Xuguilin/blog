@@ -32,7 +32,7 @@ title: FIT2CLOUD上线全新网站并发布技术白皮书
 
 除此之外，全新官网的在线文档和博客也做了相应的调整，以统一整个官网风格。
 
-另外，完整阐述FIT2CLOUD产品理念和发展方向的技术白皮书也随官网上线。在这篇技术白皮书中，我们详细阐述了IaaS和DevOps成为新常态下的企业IT运维管理面临的挑战，介绍了该领域的业界新趋势：云管理及DevOps协作平台（Cloud-Management-Platform，CMP平台），并给出我们对此的思考和解决方案。整个白皮书分成如下几个部分：
+另外，完整阐述FIT2CLOUD产品理念和发展方向的技术白皮书也随官网上线。在这篇[技术白皮书](http://www.fit2cloud.com/static/whitepaper.pdf)中，我们详细阐述了IaaS和DevOps成为新常态下的企业IT运维管理面临的挑战，介绍了该领域的业界新趋势：云管理及DevOps协作平台（Cloud-Management-Platform，CMP平台），并给出我们对此的思考和解决方案。整个白皮书分成如下几个部分：
 
 - IaaS及DevOps成为新常态的背景；
 - 企业面对新常态的挑战；
