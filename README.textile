@@ -1,10 +1,10 @@
-h1. 这是FIT2CLOUD Blog的数据存放地
+h1. 这是我的个人博客的Github存放地
 
 It is automatically transformed by "Jekyll".
 
 h1. License
 
-The following directories and their contents are Copyright FIT2CLOUD.
+The following directories and their contents are Copyright blog.xuguilin.me.
 
 * _posts/
 * images/

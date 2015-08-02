@@ -4,22 +4,22 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>FIT2CLOUD博客</title>
- <link href="http://blog.fit2cloud.com/atom.xml" rel="self"/>
- <link href="http://blog.fit2cloud.com/"/>
+ <title>CloudTier</title>
+ <link href="http://blog.xuguilin.me/atom.xml" rel="self"/>
+ <link href="http://blog.xuguilin.me/“/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://blog.fit2cloud.com/</id>
+ <id>http://blog.xuguilin.me/</id>
  <author>
-   <name>FIT2CLOUD</name>
-   <email>support@fit2cloud.com</email>
+   <name>xuguilin</name>
+   <email>xuguilin@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://blog.fit2cloud.com{{ post.url }}"/>
+   <link href="http://blog.xuguilin.me{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://blog.fit2cloud.com{{ post.id }}</id>
+   <id>http://blog.xuguilin.me{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
