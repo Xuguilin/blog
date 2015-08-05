@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS入门系统1-如何注册AWS Global账号
+title: AWS入门系列之如何注册AWS Global账号
 ---
 
 {{ page.title }}
