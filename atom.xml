@@ -6,7 +6,7 @@ layout: nil
  
  <title>CloudTier</title>
  <link href="http://blog.xuguilin.me/atom.xml" rel="self"/>
- <link href="http://blog.xuguilin.me/“/>
+ <link href="http://blog.xuguilin.me/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://blog.xuguilin.me/</id>
  <author>
